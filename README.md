@@ -11,3 +11,5 @@
 # 7 --> C2
 # 8 --> D2
 # 9 --> E2
+
+# You can select the gap between the notes played. Enjoy the music!
