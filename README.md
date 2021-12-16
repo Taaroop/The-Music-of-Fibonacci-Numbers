@@ -12,4 +12,4 @@
 # 8 --> D2
 # 9 --> E2
 
-# You can select the gap between the notes played. Enjoy the music!
+# You can select the gap between the notes played. Before you run the program, add all the audio files in the same directory as the python file. Enjoy the music!
